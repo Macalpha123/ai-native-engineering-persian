@@ -15,6 +15,7 @@
 </div>
 
 ---
+# **[Start Reading (شروع مطالعه)](https://xPOURY4.github.io/ai-native-engineering-guide-persian/)**
 
 ## 💡 Why This Document Matters? | چرا این داکیومنت اهمیت حیاتی دارد؟
 
